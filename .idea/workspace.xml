@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c7f60fb-33c6-4ffe-af4c-cbcee994bc9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WMdmeaxNfhyl7XqYbq22xeYzw6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="RestaurantMenu" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c7f60fb-33c6-4ffe-af4c-cbcee994bc9b" name="Default Changelist" comment="" />
+      <created>1578963557594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578963557594</updated>
+    </task>
+    <task id="LOCAL-00001" summary="-m &quot;testing&quot;">
+      <created>1579064484458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579064484458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-m &quot;testing&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m &quot;testing&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="23" key="CommitChangelistDialog2" timestamp="1579064484276">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="367" y="23" key="CommitChangelistDialog2/0.23.1440.877/-1440.23.1440.877@0.23.1440.877" timestamp="1579064484276" />
+    <state x="280" y="154" width="945" height="511" key="DiffContextDialog" timestamp="1579064249919">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="280" y="154" width="945" height="511" key="DiffContextDialog/0.23.1440.877/-1440.23.1440.877@0.23.1440.877" timestamp="1579064249919" />
+    <state x="489" y="127" key="RollbackChangesDialog" timestamp="1579064318855">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="489" y="127" key="RollbackChangesDialog/0.23.1440.877/-1440.23.1440.877@0.23.1440.877" timestamp="1579064318855" />
+    <state x="436" y="208" key="git4idea.merge.GitMergeDialog" timestamp="1579065126904">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="436" y="208" key="git4idea.merge.GitMergeDialog/0.23.1440.877/-1440.23.1440.877@0.23.1440.877" timestamp="1579065126904" />
+  </component>
+</project>
